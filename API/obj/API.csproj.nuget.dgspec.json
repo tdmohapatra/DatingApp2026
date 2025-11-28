@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\API\\API.csproj": {}
+    "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\API\\API.csproj": {
+    "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\TDM ZONE\\TDM_TEST_ZONE\\ANGULAR WITH CORE\\UDEMY\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
