@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
+    // added to git hub
     [Route("api/[controller]")]  // localhost:5000/api/Members
     [ApiController]
     public class MembersController(AppDbContext context) : ControllerBase
